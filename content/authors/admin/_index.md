@@ -29,7 +29,7 @@ education:
     institution: The Pennsylvania State University
     year: 2019
   - course: B.Eng in Engineering Physics
-    institution: McMaser University
+    institution: McMaster University
     year: 2015
 
 # Social/Academic Networking
